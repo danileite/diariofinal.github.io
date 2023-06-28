@@ -1,0 +1,124 @@
+/* ESTILIZAÇÃO DO CORPO DO SITE */
+nav {
+    text-align: center; 
+    font-family: Arial;
+}
+
+body {
+    background-color: #101010e1; 
+    background-image: url(img/2022-12-30_00-13-54-406_Neneko_Nature.png); 
+    background-blend-mode: multiply;
+}
+
+h1 {
+    font-family: Arial;
+    font-weight: 700;
+    border-style: double;
+    background-color: #280000;
+    background-image: url(img/2022-12-30_00-13-54-406_Neneko_Nature-small.png);
+    background-repeat: no-repeat;
+    background-position-x:38%;
+    color: aliceblue;
+    text-align: center;
+}
+p {
+    text-align: justify;
+    font-size: 16px;
+    font-family: Arial;
+    color:aliceblue;
+    margin-left: 2em;
+    line-height: 0.5cm;
+    text-indent: 40px;
+}
+
+h2 {
+    color: aliceblue; 
+    font-family: Arial;
+    text-align: center;
+}
+
+footer {
+    color: aliceblue; 
+    text-align: right;
+    font-family: Arial;
+}
+#apresentacao {
+    margin-left: 35%;
+}
+
+#video {
+    margin-left: 35%;
+}
+
+#casa {
+    margin-top: -8em;
+    width: 100px;
+    height: 400px;
+    display: inline-block;
+}
+.decor{
+    margin-left: 35em;
+    line-height: 0.5cm;
+    display:inline-block;
+
+    font-size: 16px;
+    font-family: Arial;
+    color:aliceblue;
+    line-height: 0.5cm;
+    text-indent: 40px;
+
+}
+.fotos {
+    margin-left: 25%;
+}
+
+#festa {
+    margin-top: -5em;
+    width: 100px;
+    height: 400px;
+    display: inline-block;
+}
+.uhu{
+    margin-left: 40em;
+    line-height: 0.5cm;
+    display:inline-block;
+
+    font-size: 16px;
+    font-family: Arial;
+    color:aliceblue;
+    line-height: 0.5cm;
+    text-indent: 40px;}
+
+a{
+    color: #205b8be1;
+}
+
+#mapa {
+    margin-left: 03%;
+
+}
+#cartao {
+    margin-left: 23%;
+}
+
+#redes {
+    margin-left: 35%;
+}
+#cha {
+    margin-left: 25%;
+}
+#formulario {
+    margin-left: 28%;
+    text-align: justify
+}
+
+label {
+    color:aliceblue; 
+    font-family: Arial;
+    text-align: justify;
+    
+}
+
+.pergunta {
+    margin-left: -4%;
+}
